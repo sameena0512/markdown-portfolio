@@ -2,6 +2,6 @@
 _also italic_
 
 **bold**
-__also bold__
+__alsoo bold__
 
 _You **can** combine them_
